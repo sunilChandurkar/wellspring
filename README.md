@@ -9,7 +9,7 @@ Instructions.
 5. git clone https://github.com/sunilChandurkar/wellspring.git
 6. Inside the connection.php file set your username and password.
 7. The App should be available at http://localhost/wellspring/index.php
-8. On the index page Select the file to upload trains_6.csv
+8. Create a directory called uploads in the wellspring directory. On the index page Select the file to upload trains_6.csv
 9. The table will be populated.
 10. You can Add and Edit trains via forms.
 11. You can also Delete trains.
