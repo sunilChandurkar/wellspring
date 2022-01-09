@@ -1,7 +1,7 @@
 <?php
     $servername = "localhost";
-    $username = "root";
-    $password = "floyd0";
+    $username = "XXX";
+    $password = "XXX";
     $dbname = "wellspring";
 
     // Create connection
